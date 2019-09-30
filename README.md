@@ -10,3 +10,9 @@ Currently working on:
 
 Still to do:
 Building the AI
+
+Tutorial to finish the 2048
+https://www.youtube.com/watch?v=ce9rxVC1sfg
+
+Guide to building a bot to play with reinforcement learning
+https://www.youtube.com/watch?v=1g1HCYTX3Rg

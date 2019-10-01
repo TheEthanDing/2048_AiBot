@@ -16,3 +16,10 @@ https://www.youtube.com/watch?v=ce9rxVC1sfg
 
 Guide to building a bot to play with reinforcement learning
 https://www.youtube.com/watch?v=1g1HCYTX3Rg
+
+Found a copy of an AI for 2048 that seems to be very optimized
+https://www.youtube.com/watch?v=JQut67u8LIg
+Explanation & approach
+https://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048/22498940#22498940
+Code:
+https://github.com/nneonneo/2048-ai
